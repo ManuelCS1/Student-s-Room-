@@ -108,7 +108,7 @@ header .images-logo{
 
 
 #firstsection{
-    display: flex; /*centrar a la mitad de la pagina - vertical*/
+    display: flex; 
     align-items: center;
     justify-content: center;
     text-align: center;
