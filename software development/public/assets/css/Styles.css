@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Ubuntu:wght@300&display=swap');
 
 *{
-    /*Esto hace que cuando agregues margin,padding o border no crezca o vaya
+    /*Esto hace que cuando agregues margin,padding o border no crezca
     mas alla del tamaño que le das*/
     box-sizing: border-box;
 }
@@ -108,7 +108,7 @@ header .images-logo{
 
 
 #firstsection{
-    display: flex; 
+    display: flex; /*centrar a la mitad de la pagina - vertical*/
     align-items: center;
     justify-content: center;
     text-align: center;
